@@ -1,8 +1,8 @@
 [
   {
-    "title": "Testing",
-    "text": "Testing to make sure that the code works",
+    "title": "Test",
+    "text": "Testing that the code works",
     "id": "0"
   },
-  { "title": "It Works!", "text": "I got it to work, yay!", "id": "1" }
+  { "title": "It works", "text": "I got it to work", "id": "1" }
 ]
